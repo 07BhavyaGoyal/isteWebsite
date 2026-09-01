@@ -10,7 +10,7 @@
     },
     {
       "source": "/api/contact",
-      "destination": "https://iste-contact-backend.onrender.com/api/contact"
+      "destination": "https://iste-contact-backend.vercel.app/api/contact"
     },
     {
       "source": "/(.*)",
